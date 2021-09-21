@@ -11,13 +11,17 @@
          This project Helps indiviual to view climate change problem with more practical approach.
  
  
- # Screeshot 
+ # Screenshots 
       
       
 Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(29).png)
        
  
-Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(29).png)
+Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(36).png)
  
  
       
+Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(36).png)
+
+
+Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(36).png)
