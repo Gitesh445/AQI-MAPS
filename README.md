@@ -24,4 +24,4 @@ Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%
 Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(34).png)
 
 
-Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(36).png)
+Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(31).png)
