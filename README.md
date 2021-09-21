@@ -29,4 +29,10 @@ Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%
 
 
 # Technology used
-            1.QGIS -
+            
+   It is an real time based AQI maps created from QGIS ,MAPBOX.GL AND OPEN-STREET MAPS.
+QGIS-QGIS functions as geographic information system (GIS) software, allowing users to analyze and edit spatial information, in addition to composing and exporting graphical maps. QGIS supports both raster and vector layers; vector data is stored as either point, line, or polygon features. Multiple formats of raster images are supported, and the software can georeference images.
+MAPBOX-GL-The Mapbox Maps SDK is a suite of proprietary – formerly open-source – libraries developed by Mapbox for embedding customizable slippy maps in Web, mobile, and desktop applications. There is also a library for building server-side or command-line rendering tools. The MapLibre project maintains a fork of the last free and open source versions.
+
+
+#
