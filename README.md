@@ -13,10 +13,11 @@
  
  # Screeshot 
       
-      ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(29).png)
+      
+Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(29).png)
        
  
+Format: ![INDEX-2.5](https://github.com/Gitesh445/AQI-MAPS/blob/main/Screenshot%20(29).png)
  
  
       
